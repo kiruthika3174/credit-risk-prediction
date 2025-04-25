@@ -89,11 +89,3 @@ print("Best Parameters:", grid_search.best_params_)
 3. Run `main.py` (or GUI file) to launch the Tkinter interface
 4. Input data and predict risk level
 
----
-
-Feel free to ⭐ the repo if you find it useful!
-```
-
----
-
-Let me know if you want me to generate a `requirements.txt` file or customize this README for a **Streamlit** version later.
